@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_202"/>
+	<classpathentry kind="lib" path="D:/CRs/domestic/v2/document_upload_hospital_empanelment/ttkproject/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/CRs/domestic/v2/Bima_Satark_FraudAbuse_Control/ttkproject/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/CRs/domestic/v2/Bima_Satark_FraudAbuse_Control/ttkproject/lib/jasper-compiler-jdt.jar"/>
+	<classpathentry kind="lib" path="D:/CRs/domestic/v2/Bima_Satark_FraudAbuse_Control/ttkproject/lib/jasperreports-2.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
