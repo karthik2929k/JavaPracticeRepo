@@ -1,0 +1,2 @@
+# JavaPracticeRepo
+Java concepts.
